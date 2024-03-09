@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462735815144",
+    "project_id": "instax1-a910f",
+    "storage_bucket": "instax1-a910f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462735815144:android:314faf8b1c87e38812f45d",
+        "android_client_info": {
+          "package_name": "com.example.bloc_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2R36ghcPVeGRC73lJbIVFHYpNd-AMb6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
